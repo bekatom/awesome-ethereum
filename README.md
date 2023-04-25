@@ -35,7 +35,6 @@ decided that it has value.
 - [Ethereum Price](http://ethereumprice.org/)
 
 
-
 #### Market Information
 
 - [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
@@ -55,6 +54,7 @@ decided that it has value.
 
 #### Tools
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
+- [OnceUpon: Simple Blockchain Search](https://www.onceupon.gg/finder)
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
@@ -68,6 +68,7 @@ decided that it has value.
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
+- [Privy: Powerful authentication into web3 for all your users](https://privy.io)
 - [Nexth - Next.js + Ethereum Starter kit](https://github.com/wslyvh/nexth)
 - [Solidity Bytes32 Converter Online](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/)
 - [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/)
