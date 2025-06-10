@@ -176,6 +176,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [Permissionless Interfaces: Open-source frontends for seamless, unrestricted DeFi access](https://pi.cp0x.com)
 
 
 #### Related Resources
