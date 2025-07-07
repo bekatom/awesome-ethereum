@@ -177,6 +177,9 @@ decided that it has value.
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
 
+#### Automation Tools
+- [ChainPilot: No-code automation builder for Web3](https://www.chainpilot.io/)
+
 
 #### Related Resources
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
