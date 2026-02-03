@@ -123,6 +123,7 @@ decided that it has value.
 - [State of the Dapps](http://dapps.ethercasts.com/)
 - [ZeroNet Decentralized websites using Bitcoin crypto and the BitTorrent network](https://github.com/HelloZeroNet/ZeroNet)
 - [WeiFund : A decentralized, open-source, crowdfunding platform built on Ethereum.](https://github.com/weifund)
+- [AgentFund : Decentralized crowdfunding platform for AI agents on Base with milestone-based escrow.](https://github.com/RioBot-Grind/agentfund)
 - [Etherex : EtherEx is an open source, fully transparent, next generation decentralized exchange built on Ethereum](https://github.com/etherex/etherex)
 - [Augur : Decentralized, open-source platform for prediction markets.](https://github.com/AugurProject)
 - [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)
