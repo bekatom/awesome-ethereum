@@ -85,6 +85,7 @@ decided that it has value.
 - [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
 - [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
 - [Cannon: Like Terraform, Docker and NPM for Ethereum](https://usecannon.com)
+- [Agent Gateway: Multi-chain wallet API + DeFi data for AI agents](https://agent-gateway-kappa.vercel.app) - Non-custodial HD wallets across Ethereum, Base, Solana, Bitcoin and more. Free real-time crypto price feeds for 150+ coins. USDC payments on Base.
 
 
 
