@@ -85,6 +85,7 @@ decided that it has value.
 - [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
 - [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
 - [Cannon: Like Terraform, Docker and NPM for Ethereum](https://usecannon.com)
+- [NanoStack: Cross-chain execution API for native token swaps across 80+ chains.](https://api.nano-labs.io)
 
 
 
