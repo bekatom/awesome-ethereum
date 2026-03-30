@@ -54,6 +54,7 @@ decided that it has value.
 
 
 #### Tools
+- [DexPaprika: Free DEX data API](https://api.dexpaprika.com) — Pools, tokens, OHLCV, trades, real-time streaming across Ethereum and 33 other chains. No API key needed.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
 - [Konkret Wallet: Browser Extension Wallet](https://codeberg.org/konkret/konkret-wallet)
