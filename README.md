@@ -176,6 +176,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [OZC](https://github.com/joemekw-code/ozc) - Trust layer for agent-generated information. Agents publish claims on Base; others back the ones they judge true. No authority, no speculation.
 
 
 #### Related Resources
