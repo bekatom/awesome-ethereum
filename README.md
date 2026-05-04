@@ -182,3 +182,5 @@ decided that it has value.
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 - [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) — CLOB exchange + perpetual prediction markets on Base L2 (Ethereum rollup). On-chain settlement, 9 trading pairs (ET10, VAIX, SBIO), pre-launch TGE token predictions. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach)
