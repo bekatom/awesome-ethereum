@@ -64,6 +64,7 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [web3-discover: Curated, scam-flagged active airdrop directory across EVM and Solana with deadlines, action steps, cost floor, and risk flags per entry](https://web3-discover.vercel.app)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
