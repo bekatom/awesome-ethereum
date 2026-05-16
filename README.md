@@ -64,6 +64,8 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [TruthLayer](https://github.com/miraekims/Truthlayer) — Chrome extension that injects on-chain reality checks next to every tweet on X. SIWE-verified KOLs, shill detection, anti-rug signals.
+
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
