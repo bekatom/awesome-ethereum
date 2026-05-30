@@ -72,6 +72,7 @@ decided that it has value.
 - [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
 - [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
+- [Azul: Free, no-signup public JSON-RPC for Base mainnet. No API key required.](https://baseazul.dev/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
 - [Nexth - Next.js + Ethereum Starter kit](https://github.com/wslyvh/nexth)
