@@ -70,6 +70,7 @@ decided that it has value.
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
+- [SwapTitan](https://swaptitan.net) - No-KYC crypto swap with Ethereum/Base support. REST API, MCP server, x402 USDC micropayments on Base. CLI: `npx terafab-cli rpc eth`.
 - [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
