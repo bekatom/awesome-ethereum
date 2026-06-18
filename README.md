@@ -176,6 +176,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [Ophis : Intent-based DEX aggregator with a natural-language layer and an MCP server for AI agents; non-custodial, gasless and MEV-protected (a CoW Protocol fork)](https://swap.ophis.fi)
 
 
 #### Related Resources
