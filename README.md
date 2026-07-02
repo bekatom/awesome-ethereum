@@ -137,6 +137,7 @@ decided that it has value.
 - [Verifiable off-chain computation for ethereum contracts](https://github.com/pipermerriam/ethereum-computation-market)
 - [Etherapis : Micropayment platform for generic API calls](https://github.com/etherapis/etherapis)
 - [Etherflip : Ether gambling Dapp game / eth casino](https://github.com/jambtt/Etherflip)
+- [Block Lottos : Polygon and Base on-chain lottery games with wallet-signed tickets, public draw data, advertising endpoints, and an OpenAPI for agents](https://blocklottos.com/games)
 - [EthHypeDns : Resolve Hyperboria/CJDNS ipv6 addresses via etherid.org contact](https://github.com/slothbag/EthHypeDns)
 - [Decentralized Autonomous Ventures (DAVs)](https://github.com/VentureEquityExchange/)
 - [InsurETH : P2P flight insurance](https://github.com/bertani/insurETH)
