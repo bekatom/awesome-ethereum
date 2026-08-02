@@ -70,6 +70,7 @@ decided that it has value.
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
+- [Semantic Dapp: Generate a usable user dApp and admin console from any EVM ABI with deterministic risk/audience classification.](https://github.com/TacitvsXI/semantic-dapp)
 - [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
