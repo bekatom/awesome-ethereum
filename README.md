@@ -64,6 +64,7 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
