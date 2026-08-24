@@ -71,6 +71,7 @@ decided that it has value.
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
 - [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
 - [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
+- [GasRadar: Live EVM gas price radar across chains — time transactions instead of overpaying.](https://ghassan-gaidi.github.io/gasradar-specC1/?ref=specD2)
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
 - [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 - [thirdweb: Build Web3 apps easily, providing developers with easy-to-use tools and open-source SDKs to build, launch, and manage Web3 projects.](https://thirdweb.com/)
