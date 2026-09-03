@@ -93,6 +93,7 @@ decided that it has value.
 - [zig-evm: High-performance, embeddable EVM in Zig with wave-based parallel transaction execution, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). MIT-licensed; targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.](https://github.com/cryptuon/zig-evm)
 - [Octav: Multi-chain crypto portfolio tracking API](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 - [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
+- [Raw transaction decoder: Paste a raw Ethereum transaction and see every byte named. Covers EIP-155/2718/2930/1559/4844/7702, recovers the sender address from the signature, and annotates beacon chain deposits and EIP-7002/7251 validator requests. Zig compiled to WebAssembly, runs entirely in the browser.](https://808bits.com/tools/raw-transaction-decoder/)
 
 
 
