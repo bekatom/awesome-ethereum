@@ -54,6 +54,7 @@ decided that it has value.
 
 
 #### Tools
+- [Web3Decentralization](https://web3decentralization.com) - Free, open-source Web3 learning hub (courses, glossary, certificates) with a live Nakamoto-Coefficient terminal ranking 12 L1 chains; code MIT, content CC-BY-4.0, data CC0.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
 - [growthepie - Ethereum Ecosystem Analytics](https://www.growthepie.com)
