@@ -65,6 +65,7 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [Arbitrage Inception: Non-custodial multi-pool DEX aggregator routing swaps across EVM and BNB Chain liquidity pools](https://arbitrage-inc.exchange/swap-all)
 
 #### Ethereum Clients
 - [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch — EVM (140+ opcodes), RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
