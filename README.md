@@ -190,3 +190,4 @@ decided that it has value.
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 - [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
+- [Awesome Web3 Grants : Active grant programs for Ethereum, L2 and wider web3 builders](https://github.com/zkprimecapital/awesome-web3-grants)
