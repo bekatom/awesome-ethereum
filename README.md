@@ -92,6 +92,7 @@ decided that it has value.
 - [dRPC Agent Skills: Call Ethereum JSON-RPC methods (eth_call, eth_getBalance, eth_estimateGas, eth_getLogs, etc.) from AI coding agents via DRPC's gateway.](https://github.com/drpcorg/drpc-agent-skills)
 - [zig-evm: High-performance, embeddable EVM in Zig with wave-based parallel transaction execution, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). MIT-licensed; targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.](https://github.com/cryptuon/zig-evm)
 - [Octav: Multi-chain crypto portfolio tracking API](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
+- [RPCBench](https://github.com/ehsanhajian/RPCBench) - Vendor-neutral CLI to benchmark JSON-RPC/REST providers (latency, P50/P95/P99, errors, freshness) from your machine. Local reports + Prometheus; not a security scanner.
 - [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
 
 
