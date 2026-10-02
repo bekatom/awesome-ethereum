@@ -65,7 +65,7 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
-- [Arbitrage Inception: Open-source BSC DEX aggregator with cross-chain bridging and limit orders](https://arbitrage-inc.exchange/swap-all) ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex))
+- [Arbitrage Inception: Open-source, non-custodial DEX aggregator with routed swaps, on-chain limit orders, Mayan Finance cross-chain bridging, and fee-based reward distribution](https://arbitrage-inc.exchange/swap-all) ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex))
 
 #### Ethereum Clients
 - [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch — EVM (140+ opcodes), RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
