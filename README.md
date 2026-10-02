@@ -61,6 +61,7 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [QuantumPools: Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana](https://quantumpools.io)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
