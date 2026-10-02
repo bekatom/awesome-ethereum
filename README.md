@@ -70,6 +70,7 @@ decided that it has value.
 - [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch — EVM (140+ opcodes), RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
 
 #### Developer Tools
+- [Chain.Love](https://www.chain.love/) - Directory for discovering and comparing Ethereum RPC/API providers and other infrastructure services.
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
