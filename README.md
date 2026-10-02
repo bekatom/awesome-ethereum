@@ -128,6 +128,8 @@ decided that it has value.
 - [More books](https://www.useweb3.xyz/books)
 
 #### DAPPS
+
+- [GDEX : Multi-chain trading terminal with Ethereum support and wallet analytics](https://gdex.pro/)
 - [Dapp Insight](https://dappinsight.com/)
 - [State of the Dapps](http://dapps.ethercasts.com/)
 - [ZeroNet Decentralized websites using Bitcoin crypto and the BitTorrent network](https://github.com/HelloZeroNet/ZeroNet)
