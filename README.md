@@ -94,6 +94,7 @@ decided that it has value.
 - [Octav: Multi-chain crypto portfolio tracking API](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 - [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
 - [Envio: Multichain blockchain indexer (HyperIndex) and blockchain data API (HyperSync) for EVM chains.](https://envio.dev)
+- [MoltNode by Chord: Keyless public JSON-RPC gateway for Ethereum and 30 more chains (one URL per chain), with a hosted MCP endpoint for AI agents.](https://moltnode.ag)
 
 
 
