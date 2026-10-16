@@ -191,3 +191,5 @@ decided that it has value.
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 - [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
+
+- [QWK ($QWK) Autonomous MEV Infrastructure & Resource Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM atomic execution & smart contract seed escrow (`QWKResourceEscrow.sol`) backed by $400,000+ in verified enterprise infrastructure commitments.
