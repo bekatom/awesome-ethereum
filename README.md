@@ -88,6 +88,7 @@ decided that it has value.
 - [walletOS: An API for using blockchains](https://www.pinestreetlabs.com/walletos/)
 - [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
 - [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
+- [Chord: Swap routing and DEX trade data API for apps and AI agents on Ethereum and seven more EVM chains. Best-route quotes, unsigned swap transactions that your wallet signs, trades, candles and wallet PnL, over REST or a hosted MCP server.](https://getchord.xyz/docs)
 - [Cannon: Like Terraform, Docker and NPM for Ethereum](https://usecannon.com)
 - [dRPC Agent Skills: Call Ethereum JSON-RPC methods (eth_call, eth_getBalance, eth_estimateGas, eth_getLogs, etc.) from AI coding agents via DRPC's gateway.](https://github.com/drpcorg/drpc-agent-skills)
 - [zig-evm: High-performance, embeddable EVM in Zig with wave-based parallel transaction execution, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). MIT-licensed; targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.](https://github.com/cryptuon/zig-evm)
