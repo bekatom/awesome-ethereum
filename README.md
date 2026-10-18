@@ -185,6 +185,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [fly.ai : Simulated fruit-fly connectome (166,700 neurons) whose brains trade from their own wallets on Robinhood Chain, an Arbitrum Orbit L2](https://github.com/alextitonis/fly.ai)
 
 
 #### Related Resources
