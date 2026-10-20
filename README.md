@@ -134,6 +134,7 @@ decided that it has value.
 - [WeiFund : A decentralized, open-source, crowdfunding platform built on Ethereum.](https://github.com/weifund)
 - [Etherex : EtherEx is an open source, fully transparent, next generation decentralized exchange built on Ethereum](https://github.com/etherex/etherex)
 - [Augur : Decentralized, open-source platform for prediction markets.](https://github.com/AugurProject)
+- [Melbo : Prediction markets for real-world events, built on Polygon.](https://melbo.io)
 - [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)
 - [Embark : Framework for Ethereum DApps](https://github.com/iurimatias/embark-framework)
 - [Truffle : A development framework for Ethereum](https://github.com/ConsenSys/truffle)
