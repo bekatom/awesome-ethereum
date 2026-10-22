@@ -94,6 +94,7 @@ decided that it has value.
 - [Octav: Multi-chain crypto portfolio tracking API](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 - [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
 - [Envio: Multichain blockchain indexer (HyperIndex) and blockchain data API (HyperSync) for EVM chains.](https://envio.dev)
+- [eRPC: Open-source fault-tolerant EVM/SVM RPC proxy with re-org-aware caching, failover, hedged requests, rate limits and cross-upstream consensus.](https://github.com/erpc/erpc)
 
 
 
