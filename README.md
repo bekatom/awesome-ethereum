@@ -185,6 +185,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [Kiwi News : community-curated Ethereum and crypto news, similar to Hacker News](https://news.kiwistand.com)
 
 
 #### Related Resources
