@@ -185,6 +185,7 @@ decided that it has value.
 - [Angular Decentralized Application with Embark](https://github.com/enten/embark-angular)
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
+- [Shieldz Swap : Non-custodial cross-chain swaps between Ethereum, its L2s, Bitcoin, Solana and 40 more chains](https://swap.shieldz.cash)
 
 
 #### Related Resources
