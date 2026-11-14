@@ -108,6 +108,7 @@ decided that it has value.
 - [Syllabus Ethereum](https://novicedock.com/learn/cryptocurrency/ethereum)
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/)
 - [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc)
+- [链小知区块链: ERC-20 allowances, wallet disconnection and revocation (Chinese)](https://lianxiaozhi.com/learn/token-approvals) - AI-assisted, source-linked explainer with an allowance unit example and post-transaction checks.
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
