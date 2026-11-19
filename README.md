@@ -61,6 +61,7 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [Ownbit: Paid iOS/Android self-custody wallet for Ethereum and ERC-20, with MultiSig and QR offline signing; 7-day trial](https://ownbit.io/en/ethereum-multisig-wallet/)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
