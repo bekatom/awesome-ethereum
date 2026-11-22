@@ -61,6 +61,7 @@ decided that it has value.
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [Oath Wallet: Ethereum wallet for iPhone and iPad](https://oathwallet.org/)
+- [Terra Wallet: Non-custodial multi-chain wallet for Android and Chromium browsers](https://terrawallet.us/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
