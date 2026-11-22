@@ -62,6 +62,7 @@ decided that it has value.
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
 - [Oath Wallet: Ethereum wallet for iPhone and iPad](https://oathwallet.org/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- [Plaxswap Wallet: Non-custodial wallet for web and Android](https://plaxswap.com/crypto-wallet)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
