@@ -63,6 +63,7 @@ decided that it has value.
 - [Oath Wallet: Ethereum wallet for iPhone and iPad](https://oathwallet.org/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
+- [Wallet Watch CLI: Zero-dependency Node.js CLI for EVM (Ethereum/Arbitrum/Polygon/BSC/Base) & Solana balance and webhook alerts](https://github.com/devbox-zero-ops/wallet-watch-cli)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
