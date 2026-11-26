@@ -60,11 +60,13 @@ decided that it has value.
 - [Konkret Wallet: Browser Extension Wallet](https://codeberg.org/konkret/konkret-wallet)
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
+- [Oath Wallet: Ethereum wallet for iPhone and iPad](https://oathwallet.org/)
 - [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
 - [Cryptocurrency Alerting: Blockchain Monitoring & Alerts](https://cryptocurrencyalerting.com/blockchain-alerts.html)
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [Arbitrage Inception: Cross-Chain Bridge & Swap Interface](https://arbitrage-inc.exchange/bridge) - Open-source cross-chain bridge and DeFi swap interface supporting Ethereum, BNB Chain, and Solana routing via Mayan Finance ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex))
 - [Bunker: Offline check of which Ethereum and other crypto addresses expose their public key](https://bunker.nosistech.com)
 
 #### Ethereum Clients
