@@ -96,6 +96,7 @@ decided that it has value.
 - [Octav: Multi-chain crypto portfolio tracking API](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 - [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
 - [Envio: Multichain blockchain indexer (HyperIndex) and blockchain data API (HyperSync) for EVM chains.](https://envio.dev)
+- [feraterra-sdk: Zero-dependency Python 3 SDK, C++23 64-byte HFT wire/ITCH client, EIP-191/secp256k1 EVM signer, Base L2 Clearinghouse Merkle-escape solvency verifier, and 24-tool MCP gateway.](https://github.com/FeraTerra/feraterra-sdk)
 
 
 
