@@ -70,6 +70,7 @@ decided that it has value.
 
 #### Ethereum Clients
 - [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch — EVM (140+ opcodes), RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
+- [xOneRS](https://xone.sh) - Experimental Rust execution client for Ethereum and XDC, with Engine API and JSON-RPC. Runs on pq-devnet-1. BUSL-1.1 licensed.
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
